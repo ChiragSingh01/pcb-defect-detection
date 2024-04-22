@@ -1,0 +1,6 @@
+
+
+train: PCB_split/train
+val: PCB_split/val
+nc: 6
+names: ['spurious_copper', 'mouse_bite', 'open_circuit', 'missing_hole', 'spur', 'short']
